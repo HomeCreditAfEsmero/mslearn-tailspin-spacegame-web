@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/hcUpskillOrgAf/projectMalufet/_apis/build/status%2FHomeCreditAfEsmero.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/hcUpskillOrgAf/projectMalufet/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
